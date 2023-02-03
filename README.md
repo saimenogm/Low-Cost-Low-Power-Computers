@@ -18,7 +18,7 @@ Low Cost &amp; Low Power Computers
 - Low Cost, Low Power and Low bandwidth Systems.<br/>
 - Centralized Computing platform with a research capacities: Like super Computer<br/>
 
-<h2>Developers</h2>
+<h2>System Developers</h2>
 - SIMON OKBAGERGIS MANNA<br/>
 - SIMON ALEMA<br/>
 - HENOK TSEHAYE<br/>
