@@ -7,6 +7,13 @@ Low Cost &amp; Low Power Computers
  <img src="https://user-images.githubusercontent.com/32343117/216510823-c045cb6e-f406-4bf5-9f94-a0d811c44425.PNG" width=400 height=450 /> &nbsp;    
 </p>
 
+<h2>About the System</h2>
+- Our System: - Mahder Computer Systems<br/>
+- Develop Low Cost & Low Power Computer Systems. We provide very cheap and yet highly advanced computers(Laptop & Desktop), Computer Labs  and Computing Services to the public.<br/>
+- The project helps Students, Organizations and Institutions<br/>
+- By Solving the problems of Power, Cost, Reliability and Accessibility.<br/>
+- We offer computers integrated with our custom operating system and software.<br/>
+
 
 <h2>Visions & Goals of Mahder computer systems</h2>
 - Make computer cheaper and affordable. <br/>
