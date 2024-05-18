@@ -26,7 +26,7 @@ Low Cost &amp; Low Power Computers
 - Centralized Computing platform with a research capacities: Like super Computer<br/>
 
 <h2>System Developers</h2>
-- SIMON OKBAGERGIS MANNA<br/>
+- SIMON MANNA<br/>
 - SIMON ALEMA<br/>
 - HENOK TSEHAYE<br/>
 - ABIEL KIFLU<br/>
